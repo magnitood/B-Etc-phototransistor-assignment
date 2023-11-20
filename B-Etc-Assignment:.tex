@@ -2,29 +2,37 @@
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage{geometry}
-%\usepackage{showframe}
 \usepackage{layout}
 \usepackage{blindtext}
+% \usepackage{showframe}
 \usepackage{multicol}
 \usepackage{circuitikz}
+\usepackage{hyperref}
+\usepackage{subcaption}
 \usepackage{datetime}
 \usepackage{float}
 \usepackage[style=ieee, backend=biber, urldate=comp]{biblatex}
 \addbibresource{src/References.bib}
 \graphicspath{{images/}}
-%Body
+\setcounter{biburlnumpenalty}{9000}
+\setcounter{biburlnumpenalty}{9000}
 \begin{document}
     \input{src/titlepage.tex}
     \clearpage
     \tableofcontents
     \clearpage
-    \include{src/1.Introduction.tex}
+    \input{src/1.Introduction.tex}
     \input{src/2.Theory.tex}
     \input{src/3.Construction-circuit-diagram.tex}
+    \pagebreak
     \input{src/4.Operation-Principle.tex}
     \input{src/5.Application.tex}
     \input{src/6.Conclusion.tex}
     \clearpage
     \nocite{phtbasics}
+    \nocite{eebook}
+    \nocite{elecmag}
+    \sloppy
     \printbibliography
+    \include{src/7.Signatures}
 \end{document}

@@ -1,1 +1,20 @@
 \section{Theory}
+There are 2 regions of operation of a phototransistor. They are:
+\begin{itemize}
+    \item \textbf{Active Mode:} In this mode the phototransistor behaves as a analog element with linear output that is proportional to the
+          intensity of the incoming light.
+    \item \textbf{Switch Mode:} In this mode, the phototransistor acts as a digital element, i.e., either in cutoff(off) or saturated(on).
+\end{itemize}
+
+\noindent Below saturation, the phototransistor uses the normal equations for a BJT transistor \cite{embed}.
+\begin{equation}
+    I_C = \beta I_B
+\end{equation}
+\noindent where, $I_C$ is collector current, $I_B$ is base current and $\beta$ is the transistor's gain. \\ Also
+\begin{equation}
+    I_E = I_B + I_C
+\end{equation}
+
+\noindent where $I_E$ is the emmiter current.
+
+In a typical phototransistor, the $\beta$ is around 100. They usually have higher gain than photodiodes \cite{embed}.

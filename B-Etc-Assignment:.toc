@@ -1,3 +1,7 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2}Theory}{3}{}%
-\contentsline {section}{\numberline {3}Circuit Diagram}{3}{}%
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Theory}{3}{section.2}%
+\contentsline {section}{\numberline {3}Contruction}{3}{section.3}%
+\contentsline {section}{\numberline {4}Circuit Diagram}{5}{section.4}%
+\contentsline {section}{\numberline {5}Operation Principle}{6}{section.5}%
+\contentsline {section}{\numberline {6}Application}{6}{section.6}%
+\contentsline {section}{\numberline {7}Conclusion}{8}{section.7}%

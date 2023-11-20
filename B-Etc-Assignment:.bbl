@@ -19,6 +19,117 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{embed}{book}{}
+      \name{author}{3}{}{%
+        {{hash=3580f813e74fea19be5973862837e558}{%
+           family={Kevin},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi Lynch},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7709d1391a4fdc9958fd8df7585f7623}{%
+           family={Nicholas},
+           familyi={N\bibinitperiod},
+           given={Marchuk},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fe4d383d2165d4802afa6d946149349b}{%
+           family={Matthew},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi Elwin},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Newnes}%
+      }
+      \strng{namehash}{af273eed4a5523216f97f709543bc3c6}
+      \strng{fullhash}{af273eed4a5523216f97f709543bc3c6}
+      \strng{bibnamehash}{af273eed4a5523216f97f709543bc3c6}
+      \strng{authorbibnamehash}{af273eed4a5523216f97f709543bc3c6}
+      \strng{authornamehash}{af273eed4a5523216f97f709543bc3c6}
+      \strng{authorfullhash}{af273eed4a5523216f97f709543bc3c6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{21}
+      \field{edition}{1st}
+      \field{isbn}{978-0-12-420165-1}
+      \field{title}{Embedded Computing and Mechatronics with the PIC32 Microcontroller}
+      \field{year}{2015}
+      \field{pages}{321}
+      \range{pages}{1}
+    \endentry
+    \entry{phteff}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2b7753d780a9683987b3764fb6d392e0}{%
+           family={Schweber},
+           familyi={S\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {DigiKey's North American Editors}%
+      }
+      \strng{namehash}{2b7753d780a9683987b3764fb6d392e0}
+      \strng{fullhash}{2b7753d780a9683987b3764fb6d392e0}
+      \strng{bibnamehash}{2b7753d780a9683987b3764fb6d392e0}
+      \strng{authorbibnamehash}{2b7753d780a9683987b3764fb6d392e0}
+      \strng{authornamehash}{2b7753d780a9683987b3764fb6d392e0}
+      \strng{authorfullhash}{2b7753d780a9683987b3764fb6d392e0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{9}
+      \field{title}{How to Use Photodiodes and Phototransistors Most Effectively}
+      \field{urlday}{16}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.digikey.in/en/articles/how-to-use-photodiodes-and-phototransistors-most-effectively
+      \endverb
+      \verb{url}
+      \verb https://www.digikey.in/en/articles/how-to-use-photodiodes-and-phototransistors-most-effectively
+      \endverb
+    \endentry
+    \entry{phototransistorconstruction}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ccff847be4eb335d29b1cae0cef7ec5a}{%
+           family={Anonymours},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Learnelectronicswithme}%
+      }
+      \strng{namehash}{ccff847be4eb335d29b1cae0cef7ec5a}
+      \strng{fullhash}{ccff847be4eb335d29b1cae0cef7ec5a}
+      \strng{bibnamehash}{ccff847be4eb335d29b1cae0cef7ec5a}
+      \strng{authorbibnamehash}{ccff847be4eb335d29b1cae0cef7ec5a}
+      \strng{authornamehash}{ccff847be4eb335d29b1cae0cef7ec5a}
+      \strng{authorfullhash}{ccff847be4eb335d29b1cae0cef7ec5a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{10}
+      \field{title}{Photo Transistor, Construction, Working, Characteristics and Applications}
+      \field{urlday}{20}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.learnelectronicswithme.com/2020/10/photo-transistor-construction-working.html
+      \endverb
+      \verb{url}
+      \verb https://www.learnelectronicswithme.com/2020/10/photo-transistor-construction-working.html
+      \endverb
+    \endentry
     \entry{phtbasics}{article}{}
       \name{author}{1}{}{%
         {{hash=5fe1f37f0110f764e048e3f6e3676cd9}{%
@@ -36,8 +147,8 @@
       \strng{authorbibnamehash}{5fe1f37f0110f764e048e3f6e3676cd9}
       \strng{authornamehash}{5fe1f37f0110f764e048e3f6e3676cd9}
       \strng{authorfullhash}{5fe1f37f0110f764e048e3f6e3676cd9}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{11}
@@ -55,6 +166,70 @@
       \endverb
       \verb{url}
       \verb https://www.digikey.in/en/articles/the-basics-of-photodiodes-and-phototransistors-and-how-to-apply-them
+      \endverb
+    \endentry
+    \entry{eebook}{book}{}
+      \name{author}{1}{}{%
+        {{hash=418f3c6359cd67c05ae6d3d7a185575b}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={Darren},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Newnes}%
+      }
+      \strng{namehash}{418f3c6359cd67c05ae6d3d7a185575b}
+      \strng{fullhash}{418f3c6359cd67c05ae6d3d7a185575b}
+      \strng{bibnamehash}{418f3c6359cd67c05ae6d3d7a185575b}
+      \strng{authorbibnamehash}{418f3c6359cd67c05ae6d3d7a185575b}
+      \strng{authornamehash}{418f3c6359cd67c05ae6d3d7a185575b}
+      \strng{authorfullhash}{418f3c6359cd67c05ae6d3d7a185575b}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{3}
+      \field{edition}{3rd Edition}
+      \field{isbn}{978-0123860019}
+      \field{title}{Electrical Engineering 101}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{elecmag}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7079c72c21415131774625ba1d64f4b0}{%
+           family={Anonymous},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ElectricalMag}%
+      }
+      \strng{namehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{fullhash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{bibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorbibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authornamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorfullhash}{7079c72c21415131774625ba1d64f4b0}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{2}
+      \field{title}{Phototransistor operation, Properties \& Applications}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://electricalmag.com/phototransistor
+      \endverb
+      \verb{url}
+      \verb https://electricalmag.com/phototransistor
       \endverb
     \endentry
   \enddatalist
