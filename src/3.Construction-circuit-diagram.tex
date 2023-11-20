@@ -1,0 +1,17 @@
+\section{Circuit Diagram}
+\begin{figure}[H]
+    \centering
+    \begin{circuitikz}[american] 
+    \draw
+    (0,0) node[npn, photo] (ps){};
+    \node[anchor=west, font=\footnotesize] at (ps.collector) {\textit{C}};
+    \node[anchor=north, font=\footnotesize] at (ps.base) {\textit{B}};
+    \node[anchor=west, font=\footnotesize] at (ps.emitter) {\textit{E}};
+    \end{circuitikz}
+    \caption{NPN Phototransistor}
+    \label{fig:symbol}
+\end{figure}
+
+\noindent Fig. \ref{fig:symbol} is the symbol for an npn phototransistor. Here the \(B\) represents base,
+\(C\) represents collector and \(E\) represents emitter. The base terminal is the terminal where
+light falls and generates a small current.

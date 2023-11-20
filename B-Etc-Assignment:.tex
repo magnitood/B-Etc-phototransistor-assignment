@@ -1,0 +1,30 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{geometry}
+%\usepackage{showframe}
+\usepackage{layout}
+\usepackage{blindtext}
+\usepackage{multicol}
+\usepackage{circuitikz}
+\usepackage{datetime}
+\usepackage{float}
+\usepackage[style=ieee, backend=biber, urldate=comp]{biblatex}
+\addbibresource{src/References.bib}
+\graphicspath{{images/}}
+%Body
+\begin{document}
+    \input{src/titlepage.tex}
+    \clearpage
+    \tableofcontents
+    \clearpage
+    \include{src/1.Introduction.tex}
+    \input{src/2.Theory.tex}
+    \input{src/3.Construction-circuit-diagram.tex}
+    \input{src/4.Operation-Principle.tex}
+    \input{src/5.Application.tex}
+    \input{src/6.Conclusion.tex}
+    \clearpage
+    \nocite{phtbasics}
+    \printbibliography
+\end{document}
